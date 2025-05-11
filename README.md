@@ -97,5 +97,4 @@ git push origin main
 * Always pull before pushing to avoid conflicts
 * Resolve merge conflicts carefully when they occur
 
-```
 

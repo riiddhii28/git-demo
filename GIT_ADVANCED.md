@@ -32,11 +32,10 @@ This repository is for learning and experimenting with advanced Git commands and
 
 - **.gitignore file:**  
   To ignore files/folders, create a `.gitignore` file with content like:  
+  **pycache**/
+  \*.log
+  .env
 ```
-
-**pycache**/
-\*.log
-.env
 
 ```
 

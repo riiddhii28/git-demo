@@ -1,8 +1,4 @@
 ````markdown
-# Git and GitHub Practice
-
-This repository is for practicing and revising Git and GitHub commands and workflows.
-
 ## Git Basics
 
 ```bash
